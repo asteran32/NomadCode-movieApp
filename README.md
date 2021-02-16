@@ -1,6 +1,5 @@
 # React Movie App
 
-React JS Fundamentals Course
-노마더코드의 React 입문 강의 
+Youtuber Nomad Code's React JS Fundamentals Course </br>
 
 url : https://godheeran.github.io/NomadCode-movieApp/
