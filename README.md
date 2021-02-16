@@ -1,3 +1,5 @@
-# Movie App 
+# React Movie App
 
-React JS Fundamentals Course
+Youtuber Nomad Code's React JS Fundamentals Course </br>
+
+url : https://godheeran.github.io/NomadCode-movieApp/
